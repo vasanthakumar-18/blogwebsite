@@ -1,0 +1,21 @@
+body {
+    background-color: #cccccc;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+html, body {
+    height: 100%; 
+}
+
+.container-fluid{
+    flex: 1;
+}
+
+footer {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
